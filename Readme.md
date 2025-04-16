@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm excited to share my journey in the world of so
 📌 **Tech Stack**: .NET 8+, Angular 15+, Redis, PostgreSQL
 
 ## 📫 How to Reach Me
-- **Email:** [malikjawad779gmail.com](malikjawad779gmail.com)
+- **Email:** [malikjawad779gmail.com](malikjawad779@gmail.com)
 - **LinkedIn:** [jawad-malik-827596122](https://www.linkedin.com/in/jawad-malik-827596122)
 
 ## 🌟 Fun Facts

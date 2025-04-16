@@ -15,8 +15,19 @@ Welcome to my GitHub profile! I'm excited to share my journey in the world of so
                                 ✔ Database-agnostic (SQL/NoSQL) + switchable caching (Redis/in-memory)
                                 ✔ Domain isolation – each service owns its DB with event-driven communication  
 
+ ### 🚀 Active Projects
 
- **Explore the Core Modules**: [GitHub Link](https://github.com/malik779/GeeCommerce.git) 
+**GeeCommerce**  
+⚡ A config-driven .NET microservices framework with built-in multi-tenancy support  
+
+🔹 **Key Features**:  
+- Plug-and-play authentication, database, and caching modules  
+- Multi-tenant architecture with isolated data strategies  
+- Event-driven communication (RabbitMQ)  
+
+🌐 [Explore on GitHub](https://github.com/malik779/GeeCommerce.git)  
+
+📌 **Tech Stack**: .NET 8+, Angular 15+, Redis, PostgreSQL
 
 ## 📫 How to Reach Me
 - **Email:** [malikjawad779gmail.com](malikjawad779gmail.com)
